@@ -26,5 +26,15 @@
     <string name="wherehevisite">Where He/She Visited</string>
     <string name="expectedreturn">Expected Return Time</string>
     <string name="incaseofrejection">Incase of Rejection</string>
+    <string name="unioncouncil">Union Council</string>
+    <string name="zone">Zone</string>
+    <string name="tehsil">Tehsil</string>
+    <string name="district">District</string>
+    <string name="todayarea">Today Area</string>
+    <string name="campaingday">Campaing Day</string>
+    <string name="teamno">Team No</string>
+    <string name="teamleader">Team Leader</string>
+    <string name="teammembers">Team Members</string>
+    <string name="unioncouncilmedical">Union Council  Medical Center Inchage</string>
 
 </resources>

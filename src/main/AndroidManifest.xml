@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".missingchildren"></activity>
+        <activity android:name=".team"></activity>
+        <activity android:name=".Area" />
+        <activity android:name=".missingchildren" />
         <activity android:name=".Areaincharge" />
         <activity android:name=".DataCollection" />
         <activity android:name=".HomePage" />
